@@ -4,3 +4,9 @@ c:\users\bega\documents\visual studio 2013\Projects\HighChartsFeatures\HighChart
 c:\users\bega\documents\visual studio 2013\Projects\HighChartsFeatures\HighChartsFeatures\obj\Debug\HighChartsFeatures.csprojResolveAssemblyReference.cache
 c:\users\bega\documents\visual studio 2013\Projects\HighChartsFeatures\HighChartsFeatures\obj\Debug\HighChartsFeatures.dll
 c:\users\bega\documents\visual studio 2013\Projects\HighChartsFeatures\HighChartsFeatures\obj\Debug\HighChartsFeatures.pdb
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\HighChartsPractice\HighChartsFeatures\bin\HighChartsFeatures.dll.config
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\HighChartsPractice\HighChartsFeatures\bin\HighChartsFeatures.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\HighChartsPractice\HighChartsFeatures\bin\HighChartsFeatures.pdb
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\HighChartsPractice\HighChartsFeatures\obj\Debug\HighChartsFeatures.csprojResolveAssemblyReference.cache
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\HighChartsPractice\HighChartsFeatures\obj\Debug\HighChartsFeatures.dll
+C:\Users\BeGa\Documents\Visual Studio 2013\Projects\HighChartsPractice\HighChartsFeatures\obj\Debug\HighChartsFeatures.pdb
