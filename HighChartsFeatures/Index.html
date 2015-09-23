@@ -11,15 +11,18 @@
 
     <!-- high charts  libraries-->
     <script src="Lib/shareLib/highchartLib/highcharts.js"></script>
+    <script src="Lib/shareLib/highchartLib/modules/exporting.js"></script>
 
     <script src="Lib/customLib/MyApp.js"></script>
     <script src="Lib/customLib/mainController.js"></script>
 
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
 </head>
-<body ng-controller="mainController" ng-init="initLSxChart()">
+<body >
     <div class="container-fluid">
-        <div id="LSx4yChart"></div>
+        <div id="LSx4yChart" ng-controller="lsx4yChartController" ng-init="initLSxChart();"></div>
+        <div id="XFourChart" ng-controller="xfourChartController" ng-init="initXFourChart();"></div>
+        <div id="allPlatformsYTDChart" ng-controller="allPlatformsYTDController" ng-init="initAllPlatformsYTDChart();"></div>
     </div>
 </body>
 </html>

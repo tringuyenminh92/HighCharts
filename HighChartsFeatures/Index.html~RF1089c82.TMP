@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html ng-app="GlobalModule">
+<head>
+    <title>HighCharts Practice</title>
+
+    <script src="Lib/shareLib/jquery-2.1.4.min.js"></script>
+    <script src="Lib/shareLib/angular.min.js"></script>
+    <script src="Lib/shareLib/bootstrap.min.js"></script>
+    <script src="Lib/shareLib/ui-bootstrap.min.js"></script>
+    <script src="Lib/shareLib/ui-bootstrap-tpls.min.js"></script>
+
+    <!-- high charts  libraries-->
+    <script src="Lib/shareLib/highchartLib/highcharts.js"></script>
+    <script src="Lib/shareLib/highchartLib/modules/exporting.js"></script>
+
+    <script src="Lib/customLib/MyApp.js"></script>
+    <script src="Lib/customLib/mainController.js"></script>
+
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body >
+    <div class="container-fluid">
+        <div id="LSx4yChart" ng-controller="lsx4yChartController" ng-init="initLSxChart();"></div>
+        <div id="XFourChart" ng-controller="xfourChartController" ng-init="initXFourChart();"></div>
+        <div id="allPlatformsYTDChart" ng-controller="allPlatformsYTDController" ng-init="initallPlatformsYTDChart();"></div>
+    </div>
+</body>
+</html>
