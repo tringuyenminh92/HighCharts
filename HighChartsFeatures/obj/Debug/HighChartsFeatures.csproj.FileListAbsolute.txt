@@ -16,3 +16,9 @@ C:\Users\UR81HC\Documents\visual studio 2013\Projects\FeatureHighCharts\HighChar
 C:\Users\UR81HC\Documents\visual studio 2013\Projects\FeatureHighCharts\HighChartsFeatures\obj\Debug\HighChartsFeatures.csprojResolveAssemblyReference.cache
 C:\Users\UR81HC\Documents\visual studio 2013\Projects\FeatureHighCharts\HighChartsFeatures\obj\Debug\HighChartsFeatures.dll
 C:\Users\UR81HC\Documents\visual studio 2013\Projects\FeatureHighCharts\HighChartsFeatures\obj\Debug\HighChartsFeatures.pdb
+D:\Github\HighChartsPractice\HighChartsFeatures\bin\HighChartsFeatures.dll.config
+D:\Github\HighChartsPractice\HighChartsFeatures\bin\HighChartsFeatures.dll
+D:\Github\HighChartsPractice\HighChartsFeatures\bin\HighChartsFeatures.pdb
+D:\Github\HighChartsPractice\HighChartsFeatures\obj\Debug\HighChartsFeatures.csprojResolveAssemblyReference.cache
+D:\Github\HighChartsPractice\HighChartsFeatures\obj\Debug\HighChartsFeatures.dll
+D:\Github\HighChartsPractice\HighChartsFeatures\obj\Debug\HighChartsFeatures.pdb

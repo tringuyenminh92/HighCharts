@@ -67,6 +67,12 @@
     <Content Include="Lib\customLib\MyApp.js" />
     <Content Include="Lib\shareLib\angular.min.js" />
     <Content Include="Lib\shareLib\bootstrap.min.js" />
+    <Content Include="Lib\shareLib\exportClientSideLib\canvas-tools.js" />
+    <Content Include="Lib\shareLib\exportClientSideLib\export-csv.js" />
+    <Content Include="Lib\shareLib\exportClientSideLib\exporting.js" />
+    <Content Include="Lib\shareLib\exportClientSideLib\highcharts-export-clientside.js" />
+    <Content Include="Lib\shareLib\exportClientSideLib\highcharts.js" />
+    <Content Include="Lib\shareLib\exportClientSideLib\jspdf.js" />
     <Content Include="Lib\shareLib\highchartLib\adapters\standalone-framework.js" />
     <Content Include="Lib\shareLib\highchartLib\adapters\standalone-framework.src.js" />
     <Content Include="Lib\shareLib\highchartLib\highcharts-3d.js" />
